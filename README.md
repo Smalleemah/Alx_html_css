@@ -17,6 +17,11 @@ This project is a fully responsive web page built based on a provided Figma desi
 
 🎨 Design Reference
 
+- Based on a Figma file (duplicated to my drafts)
+- Fonts used:
+  - Source Sans Pro
+  - Spin Cycle OT (ensure these are installed or linked via web)
+- Some Figma values were in float — rounded for cleaner implementation
 
 📱 Responsiveness
 
